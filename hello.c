@@ -3,5 +3,7 @@
 int main (void) {
     printf ("Hello world LUL \n");
 
-    return 0;    
+    printf ("lolololfosldfoslf");
+
+    return 0;
 }
